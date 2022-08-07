@@ -5,7 +5,7 @@
 
 This is a package that logs the remainder of a number of the user's choice.
 
-## How to use the remainder package
+## 👩‍💻 How to use the remainder package
 
 ```
 - First, import the library and store it in a variable called [remainder]
