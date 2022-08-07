@@ -5,6 +5,10 @@
 
 This is a package that logs the remainder of a number of the user's choice.
 
+## ⚒️ How to install remainder
+
+```npm i @bcostaaa01/remainder```
+
 ## 👩‍💻 How to use the remainder package
 
 ```
